@@ -1,6 +1,10 @@
 # دوره آموزش گیت برای فارسی زبانان
 
-<div style="text-align: center"><img src="./logo.png"></div>
+<p align="center">
+   
+  <img alt="Git Logo" src="./logo.png">
+  
+</p>
 
 ## مقدمه
 
