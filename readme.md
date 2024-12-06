@@ -1,7 +1,9 @@
 # دوره آموزش گیت برای فارسی زبانان
 <div dir="rtl">
 
-![Git Logo](./logo.png)
+<div align="center">
+  <img src="./logo.png">
+</div>
 ## مقدمه
 
 گیت چیه؟ گیت  یه برنامه سیستم کنترل نسخه هستش. 
